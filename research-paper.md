@@ -83,14 +83,34 @@ The ultra-faint telemetry signals gathered by the SQUID arrays are routed direct
 - **Parametric Modulation:** By pumping the JPA loop at twice the signal frequency ($2\omega_p$), the system achieves high-gain, phase-sensitive amplification of incoming environmental signatures.
 - **Squeezed State Optimization:** The JPA setup is configured to squeeze the noise variance of one quadrature below the standard quantum limit ($S_V(\omega) < \frac{\hbar \omega}{2}$), routing the inevitable measurement noise entirely into the unread phase quadrature. This ensures that the telemetry feed entering the predictive tracking loops remains clean, un-spoofed, and pristine.
 
-### 4.3 Spatial Stabilization via Dual-Axis Cold-Atom Gravity Gradiometry
-To provide a completely un-spoofable, passive anchor for physical navigation and topographical mapping (such as monitoring structural cliffside degradation or local planetary mass shifts), the framework deploys a dual-axis atom interferometer.
-- **Laser Cooling Core:** Rubidium-87 ($^{87}\text{Rb}$) atoms are trapped and cooled within a Magneto-Optical Trap (MOT) to microkelvin temperatures ($T \le 10\ \mu\text{K}$), dropping their thermal velocity to near-zero states.
-- **Interferometric Split-Loop:** A series of counter-propagating Raman laser pulses ($\frac{\pi}{2} - \pi - \frac{\pi}{2}$) physically splits, redirects, and recombines the atomic wave packets. As the atoms fall freely under gravity, local accelerations and mass-density differentials induce a precise phase shift $\Delta \Phi_{\text{grav}}$ between the paths:
+### 4.1 Multi-Modal Quantum Sensing Grid Architecture
+To maintain absolute situational awareness without emitting active, detectable radar or sonar signatures, the physical foundation relies on a passive, multi-modal quantum sensing matrix. This grid is structurally integrated into the outer hexagonal hull layers to monitor ambient environmental metrics with near-zero latency.
 
-$$\Delta \Phi_{\text{grav}} = k_{\text{eff}} \cdot g \cdot T^2$$
+- **Sub-Picotesla SQUID Arrays:** The primary magnetic sensing layer utilizes Superconducting Quantum Interference Devices (SQUIDs) configured in highly parallel orthogonal arrays. These sensors achieve magnetic field sensitivity thresholds below $10^{-15}$ Tesla, allowing the system to passively track external electronic telemetry or shifting physical hulls by measuring localized distortions in the planetary geomagnetic field.
+- **Cold-Atom Gravity Gradiometry:** To prevent physical cloaking or visual camouflage exploits, the spatial tracking matrix integrates atom-interferometer gravity gradiometers utilizing laser-cooled rubidium ($^{87}\text{Rb}$) atoms in a magneto-optical trap (MOT). By measuring the differential phase shift between two spatially separated atom clouds, the grid maps absolute mass-density variations ($\Delta \Phi_{\text{grav}}$), providing an un-spoofable trajectory metric for any oncoming material asset regardless of active thermal or optical shielding.
 
-Where $k_{\text{eff}}$ represents the effective wave vector of the laser field and $T$ is the free-fall separation time. This spatial gradient tracking allows the core network to continuously verify its physical coordinate baseline against immutable gravitational signatures.
+### 4.2 Near-Quantum-Limited Noise Filtering and Adaptive Jamming Countermeasures via JPAs
+The ultra-faint telemetry signals gathered by the SQUID arrays are routed directly through lithographically integrated Josephson Parametric Amplifiers (JPAs). 
+- **Parametric Modulation:** By pumping the JPA loop at twice the signal frequency ($2\omega_p$), the system achieves high-gain, phase-sensitive amplification of incoming environmental signatures.
+- **Squeezed State Optimization:** The JPA setup is configured to squeeze the noise variance of one quadrature below the standard quantum limit ($S_V(\omega) < \frac{\hbar \omega}{2}$), routing the inevitable measurement noise entirely into the unread phase quadrature.
+- **Dynamical Decoupling Protocol (Anti-Override Architecture):** To prevent malicious or accidental external signal flooding (neurological/telemetric injection overrides), the JPA substrate implements an automated phase-squeezing angle shift. Upon detecting an environmental saturation anomaly, the system initiates high-frequency phase-reversal pulses ($\pi$-pulses) to dynamically decouple the sensing lattice from the external jamming frequency. This forces parasitic inputs into a non-read digital sink, keeping the processing engine insulated and secure.
+
+### 4.3 Spatial Telemetry Core Alignment and Matrix Transformations
+Raw inputs from the SQUID loops, atomic interferometers, and sub-harmonic acoustic arrays are continuously mapped onto a unified topological coordinate plane. The spatial processing core executes continuous multi-variant vector transformations to align external data streams with the internal predictive time-loop engine. This sensory synchronization guarantees that incoming spatial anomalies are registered as distinct, localized geometric coordinates before they can penetrate adjacent operational nodes.
+
+### 4.4 Passive Topological Bio-Sensor Array (MGSV-Idroid Protocol Baseline)
+To bridge the gap between macro-environmental telemetry and localized biological monitoring, the grid integrates a passive, non-invasive biometric tracking matrix. This sub-array is designed to map external entities approaching the peripheral ports without emitting detectable radar, sonar, or thermal signatures.
+
+- **Vapor-Cell Atomic Magnetometry:** The system deploys a secondary lattice of rubidium-gas ($^{87}\text{Rb}$) atomic magnetometers. These sensors operate at room temperature to monitor ultra-low frequency (ULF) electromagnetic fluctuations generated by the depolarization of living cardiac tissue and neural pathways. This allows the passive tracking of an entity's internal pulse rate and neural stress signatures from a distance of up to 15 meters.
+- **Biometric Cross-Rationalization (Anti-Spoofing Architecture):** To neutralize external biometric spoofing rigs (e.g., electronic decoys broadcasting simulated steady pulse streams), the processing core enforces a hardware-level cross-verification loop. The system continuously cross-references the atomic magnetometer data against the localized mass-density metrics from the Gravity Gradiometers ($\Delta \Phi_{\text{grav}}$) and the sub-harmonic structural acoustic grid (Section 2).
+
+If an incoming bio-field vector indicates a single biological entity but the gravitational displacement metrics register a structural mass deviation indicative of hidden armaments or multiple cloaked operators:
+
+$$\text{Mass\_Discrepancy} = M_{\text{grav}} - M_{\text{bio\_profile}} > \text{Threshold}$$
+
+- **Volumetric Air Displacement Override (The Drag Coefficient Shield):** To permanently neutralize advanced adversaries utilizing active acoustic-levitation dampeners or mass-cancellation phase disruptors to mask their weight, the system cross-references telemetry with fluid dynamics sensors. Every physical entity moving through the atmosphere must displace air molecules, generating a localized aerodynamic drag force ($F_d = \frac{1}{2} \rho v^2 C_d A$). Even if an entity's weight profile is masked, their physical cross-sectional area ($A$) and volumetric fluid wake are un-spoofable. 
+
+If the calculated volumetric air displacement profile mismatches the spoofed biometric and mass telemetry vectors, the system instantly flags a structural camouflage anomaly. The computational pathways to adjacent primary nodes are isolated via the Sealed Hull protocol, and the peripheral interface console is placed into an immediate defensive hold state.
 
 ---
 
