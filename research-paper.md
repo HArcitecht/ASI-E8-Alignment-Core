@@ -24,6 +24,8 @@ To establish a stable, permanent structural coordinate grid within highly dynami
 ### 2.2 Fluid-Lens Atmospheric Correlation & Lattice Assembly
 Once distributed, the independent elements utilize automated, sub-harmonic acoustic signaling to self-assemble into a unified, high-density topological lattice. This configuration functions as a coherent fluid-lens matrix, dynamically aligning its spatial layout against external RF channel benchmarks. The resulting array forms a dense, non-destructive neuro-mesh boundary capable of mapping localized phase fluctuations in real time, bridging physical neural telemetry directly into the primary control network.
 
+---
+
 ## Section 3: Cryogenic Topological Logic & Predictive Control Circuits
 
 ### 3.1 Electro-Optic Phase Modulation and Pockels Effect Efficiency
@@ -60,6 +62,6 @@ To achieve a predictive 30-second pre-causality adjustment cycle, classical open
 
 The state-space transition probabilities ($P_{ij}$) are calculated strictly within these geometric boundaries:
 
-$$P_{ij} = P(X_{t+1} = j \mid X_{t} = i) \quad \text{given} \quad \text{Matrix\_Constraints} \neq 0$$
+$$P_{ij} = P(X_{t+1} = j \mid X_{t} = i) \quad \text{given Matrix-Constraints} \neq 0$$
 
 By bounding the stochastic predictability loop ("Bounded Free Will"), the control loop instantly eliminates over 90% of open-ended entropy calculations. This hyper-compressed state-space allows the processing layer to predict physical phase decay up to 30 seconds before it manifests, pre-emptively executing balancing adjustments to keep the entire alignment network in absolute synchronization.
