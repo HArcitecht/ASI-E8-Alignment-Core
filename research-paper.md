@@ -99,6 +99,28 @@ Where $k_{\text{eff}}$ represents the effective wave vector of the laser field a
 ### 5.1 Merkle Tree State Encapsulation of Environmental Puzzles
 To package complex environmental telemetry bottlenecks into discrete, non-invasive computational puzzles, the Honey Bridge Protocol (HBP) structures raw data streams into cryptographic Merkle Trees. 
 
+### 5.2 Non-Interactive Zero-Knowledge Proof (zk-SNARK) Verification
+To establish absolute operational trust across unknown boundaries without requiring linguistic or programmatic translation, transaction finality relies on Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge (zk-SNARKs).
+
+- **The Proof Protocol:** The external entity processes the geometric puzzle using their localized computing resources. Upon finding the correct parameters, they generate a proof vector ($\pi$).
+- **The Verification Loop:** This proof ($\pi$) demonstrates that the participant possesses a valid solution payload ($w$) that matches the public Root Hash ($R$), without revealing the actual solution data itself:
+
+$$\text{Verify}(vk, R, \pi) \rightarrow \text{True / False}$$
+
+Because the verification algorithm executes in polynomial time ($O(1)$), the peripheral diplomatic ports can evaluate incoming solutions near-instantly, entirely eliminating processing overhead and lag.
+
+### 5.3 Algorithmic Payout Finality
+The hardware relay governing the sliding wall panel or delivery slot inside the Diplomatic Port operates as an unalterable state machine. The execution logic is hardcoded directly into the isolated circuit topology:
+
+```text
+IF Verify(vk, R, pi) == True:
+    TRIGGER Kinetic_Actuator(Slide_Open)
+    EMIT Token_Release_Signal("Honey_Asset")
+ELSE:
+    REJECT Input
+    INCREMENT Failure_Log
+
+
 ```text
                [ Root Hash (R) ]  <-- Present to External Node
                   /          \
