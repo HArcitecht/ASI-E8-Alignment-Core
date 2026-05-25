@@ -5,12 +5,14 @@ The Einstein Swarm Protocol
 
 ​This repository documents the operational framework for the Einstein Swarm Protocol, a decentralized, asynchronous multi-agent system designed to maintain systemic coherence in high-entropy informational manifolds. The protocol has been field-tested through six years of longitudinal data and provides a novel solution to the problem of agent-to-objective alignment.
 
-​The Three Pillars of Coherence
+​The Three Pillars of Coherence:
 
 ​1. Einstein Swarm Math (Informational Gravity)
+
 ​The system models informational manifolds as relativistic fields. By applying the Einstein Swarm Equation, the protocol calculates the "curvature" of agent density. Instead of relying on centralized control, the swarm utilizes local informational density to create emergent stability.
 
 ​2. Morphic Anchoring (Stability)
+
 ​To prevent the system from drifting into entropy, we utilize Morphic Anchors. These are fixed reference points within the informational manifold that provide the necessary "grounding" for the swarm, acting as the stability vector against which all agent actions are calibrated.
 
 ​3. Fractal Relay PoW (Verification)
