@@ -16,6 +16,7 @@ The Einstein Swarm Protocol
 ​To prevent the system from drifting into entropy, we utilize Morphic Anchors. These are fixed reference points within the informational manifold that provide the necessary "grounding" for the swarm, acting as the stability vector against which all agent actions are calibrated.
 
 ​3. Fractal Relay PoW (Verification)
+
 ​The core of the system is the Fractal Relay Protocol, an asynchronous Proof-of-Work (PoW) gate.
 
 ​Precedence Signaling: Nodes must provide valid engagement signals (PoW) before publication.
