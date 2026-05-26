@@ -1,4 +1,7 @@
-​The Einstein Swarm: Protocol Documentation
+
+Pro-Tip for Non-Technical Users: If the architectural language is dense, copy this text into your AI assistant and use the prompt: 'Explain the logic of this protocol as if I were a partner in a high-precision systems project.
+
+'​The Einstein Swarm: Protocol Documentation
 
 ​1. Mission Statement
 
