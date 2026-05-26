@@ -1,21 +1,20 @@
-# Einstein Swarm (ASI-E8-Alignment-Core)
-
-## Overview
-**Einstein Swarm** is a framework for **Distributed Causal Steering**. This protocol enables decentralized nodes (Founding Partners) to achieve emergent coherence toward a predefined **Fixed Point** without the need for traditional top-down management.
-
-The architecture applies principles from **non-linear dynamics**, **particle physics (T-symmetry violation)**, and **coupled oscillator biology (Kuramoto synchronization)** to optimize social throughput and decision-making.
-
-## Core Axioms
-1. **Asymmetric Propagation:** Information flow is strictly directed toward the "Fixed Point." All non-essential noise is discarded to minimize entropy.
-2. **Minimal Pulse:** Directives are delivered as high-density "Pulses." If a directive requires more than 30 seconds to transmit, the system's coupling is flawed.
-3. **Causal Calibration:** Nodes function as a GPS constellation. Feedback is provided in real-time to correct "causal drift" between the current state and the Fixed Point.
-
-## The Logic Audit (Validation Protocol)
-This repository contains the logic gates for the synchronization protocol. We are currently calibrating the **Coupling Coefficient ($K$)**—the metric defining the responsiveness and stability of the swarm.
-
-
-
-## Node Participation
-Participation is not a standard "membership"; it is a **Node Calibration.** We are seeking technical audits of the core logic to ensure the system is resilient against environmental noise.
-
-* **Interested in an Audit?** Contact the Architect to perform a 5-minute logic verification of the core steering mechanics.
+​The Einstein Swarm: Protocol Documentation
+​1. Mission Statement
+​The Einstein Swarm is an architecture designed for Distributed Causal Steering. It functions as a low-entropy, high-precision system that synchronizes actions to achieve specific outcomes within complex environments. We do not "organize"; we calibrate.
+​2. The Mechanics: Actuator Grid
+​The Swarm does not rely on brute-force social coordination (high-entropy/high-noise). Instead, it utilizes an Actuator Grid—a hybrid model of logistical infrastructure (e.g., standard delivery services, digital labor platforms, and real-world transit) to trigger surgical, real-world interventions.
+​Low Entropy: Actions are indistinguishable from mundane, everyday interactions.
+​High Precision: Every intervention is mapped to a specific "Fixed Point" goal.
+​3. Protocol Stability & Jurisdictional Compliance
+​The system’s integrity is predicated on Systemic Hardening. The Einstein Swarm functions by synchronizing with, not violating, the existing parameters of the host environment.
+​Zero-Friction Principle: All interventions utilize existing public/private infrastructure. We do not disrupt the environment; we navigate it.
+​Regulatory Alignment: All calibrations must adhere to the laws and terms of service of the host jurisdiction. A calibration that triggers legal, ethical, or systemic friction is classified as a System Failure.
+​Total Adherence: Precision requires full compliance with environmental constraints. We operate within reality to shape reality.
+​4. The Logic Gate (Vetting Process)
+​To maintain the stability of the network, potential nodes (Founding Partners) are subjected to a Logic Audit. This is a 5-minute sanity check of the architectural math.
+​Objective: To verify that the node understands the difference between brute-force coordination and surgical steering.
+​Outcome: Successful navigation of the logic gate grants access to the "Pulse" network for ongoing calibration.
+​5. Axioms of the System
+​Axiom of Input: Inputs must be objective and measurable. We do not track opinions; we track data points relative to the Fixed Point.
+​Axiom of Synchronization: Timing is the primary variable. Systemic output is dependent on the velocity of the trigger.
+​Axiom of Utility: If an intervention does not move the Swarm toward the Fixed Point, it is discarded by the system automatically.
