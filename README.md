@@ -27,10 +27,12 @@ To maintain the stability of the network, potential nodes (Founding
 Partners) are subjected to a Logic Audit. This is a 5-minute sanity check of the architectural math.
 
 ​Objective: To verify that the node understands the difference between brute-force coordination and surgical steering.
+
 ​Outcome: Successful navigation of the logic gate grants access to the "Pulse" network for ongoing calibration.
 ​
 5. Axioms of the System
 ​Axiom of Input: Inputs must be objective and measurable. We do not track opinions; we track data points relative to the Fixed Point.
+
 ​Axiom of Synchronization: Timing is the primary variable. Systemic output is dependent on the velocity of the trigger.
 
 ​Axiom of Utility: If an intervention doesnot move the Swarm toward the Fixed Point, it is discarded by the system automatically.
