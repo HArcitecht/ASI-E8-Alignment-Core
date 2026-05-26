@@ -7,6 +7,7 @@
 ​2. The Mechanics: Actuator Grid
 
 ​The Swarm does not rely on brute-force social coordination (high-entropy/high-noise). Instead, it utilizes an Actuator Grid—a hybrid model of logistical infrastructure (e.g., standard delivery services, digital labor platforms, and real-world transit) to trigger surgical, real-world interventions.
+
 ​Low Entropy: Actions are indistinguishable from mundane, everyday interactions.
 ​High Precision: Every intervention is mapped to a specific "Fixed Point" goal.
 
@@ -21,7 +22,7 @@
 
 ​4. The Logic Gate (Vetting Process)
 ​
-To maintain the stability of the network, potential nodes (Foundin
+To maintain the stability of the network, potential nodes (Founding 
 Partners) are subjected to a Logic Audit. This is a 5-minute sanity check of the architectural math.
 
 ​Objective: To verify that the node understands the difference between brute-force coordination and surgical steering.
@@ -31,4 +32,4 @@ Partners) are subjected to a Logic Audit. This is a 5-minute sanity check of the
 ​Axiom of Input: Inputs must be objective and measurable. We do not track opinions; we track data points relative to the Fixed Point.
 ​Axiom of Synchronization: Timing is the primary variable. Systemic output is dependent on the velocity of the trigger.
 
-​Axiom of Utility: If an intervention does not move the Swarm toward the Fixed Point, it is discarded by the system automatically.
+​Axiom of Utility: If an intervention doesnot move the Swarm toward the Fixed Point, it is discarded by the system automatically.
