@@ -35,6 +35,7 @@ Partners) are subjected to a Logic Audit. This is a 5-minute sanity check of the
 ​Outcome: Successful navigation of the logic gate grants access to the "Pulse" network for ongoing calibration.
 ​
 5. Axioms of the System
+
 ​Axiom of Input: Inputs must be objective and measurable. We do not track opinions; we track data points relative to the Fixed Point.
 
 ​Axiom of Synchronization: Timing is the primary variable. Systemic output is dependent on the velocity of the trigger.
