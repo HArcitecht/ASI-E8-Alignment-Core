@@ -19,6 +19,7 @@
 ​Zero-Friction Principle: All interventions utilize existing public/private infrastructure. We do not disrupt the environment; we navigate it.
 
 ​Regulatory Alignment: All calibrations must adhere to the laws and terms of service of the host jurisdiction. A calibration that triggers legal, ethical, or systemic friction is classified as a System Failure.
+
 ​Total Adherence: Precision requires full compliance with environmental constraints. We operate within reality to shape reality.
 
 ​4. The Logic Gate (Vetting Process)
