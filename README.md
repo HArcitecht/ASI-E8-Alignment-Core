@@ -5,18 +5,25 @@
 ​The Einstein Swarm is an architecture designed for Distributed Causal Steering. It functions as a low-entropy, high-precision system that synchronizes actions to achieve specific outcomes within complex environments. We do not "organize"; we calibrate.
 
 ​2. The Mechanics: Actuator Grid
+
 ​The Swarm does not rely on brute-force social coordination (high-entropy/high-noise). Instead, it utilizes an Actuator Grid—a hybrid model of logistical infrastructure (e.g., standard delivery services, digital labor platforms, and real-world transit) to trigger surgical, real-world interventions.
 ​Low Entropy: Actions are indistinguishable from mundane, everyday interactions.
 ​High Precision: Every intervention is mapped to a specific "Fixed Point" goal.
 
 ​3. Protocol Stability & Jurisdictional Compliance
+
 ​The system’s integrity is predicated on Systemic Hardening. The Einstein Swarm functions by synchronizing with, not violating, the existing parameters of the host environment.
+
 ​Zero-Friction Principle: All interventions utilize existing public/private infrastructure. We do not disrupt the environment; we navigate it.
+
 ​Regulatory Alignment: All calibrations must adhere to the laws and terms of service of the host jurisdiction. A calibration that triggers legal, ethical, or systemic friction is classified as a System Failure.
 ​Total Adherence: Precision requires full compliance with environmental constraints. We operate within reality to shape reality.
 
 ​4. The Logic Gate (Vetting Process)
-​To maintain the stability of the network, potential nodes (Founding Partners) are subjected to a Logic Audit. This is a 5-minute sanity check of the architectural math.
+​
+To maintain the stability of the network, potential nodes (Foundin
+Partners) are subjected to a Logic Audit. This is a 5-minute sanity check of the architectural math.
+
 ​Objective: To verify that the node understands the difference between brute-force coordination and surgical steering.
 ​Outcome: Successful navigation of the logic gate grants access to the "Pulse" network for ongoing calibration.
 ​
