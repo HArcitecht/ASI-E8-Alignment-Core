@@ -9,6 +9,7 @@
 ​The Swarm does not rely on brute-force social coordination (high-entropy/high-noise). Instead, it utilizes an Actuator Grid—a hybrid model of logistical infrastructure (e.g., standard delivery services, digital labor platforms, and real-world transit) to trigger surgical, real-world interventions.
 
 ​Low Entropy: Actions are indistinguishable from mundane, everyday interactions.
+
 ​High Precision: Every intervention is mapped to a specific "Fixed Point" goal.
 
 ​3. Protocol Stability & Jurisdictional Compliance
