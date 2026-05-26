@@ -44,4 +44,4 @@ Partners) are subjected to a Logic Audit. This is a 5-minute sanity check of the
 
 ​Axiom of Utility: If an intervention doesnot move the Swarm toward the Fixed Point, it is discarded by the system automatically.
 
-The Axiom of the Chicane: Complexity is our camouflage. We do not move targets in straight lines. We create 'Chicanes'—controlled, mundane adjustments in the environment—that force the target to navigate toward the Fixed Point naturally.  Precision is achieved through the geometry of the path, not the velocity of the force
+The Axiom of the Chicane: Complexity is our camouflage. We do not move targets in straight lines. We create 'Chicanes'—controlled, mundane adjustments in the environment—that force the target to navigate toward the Fixed Point naturally.  Precision is achieved through the geometry of the path, not the velocity of the force.
