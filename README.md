@@ -1,6 +1,7 @@
 ​The Einstein Swarm: Protocol Documentation
 
 ​1. Mission Statement
+
 ​The Einstein Swarm is an architecture designed for Distributed Causal Steering. It functions as a low-entropy, high-precision system that synchronizes actions to achieve specific outcomes within complex environments. We do not "organize"; we calibrate.
 
 ​2. The Mechanics: Actuator Grid
