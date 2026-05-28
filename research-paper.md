@@ -58,7 +58,7 @@ $$f_D(t) = \frac{1}{2\pi} \left[ \frac{d(\angle H)}{dt} \right] = \frac{v}{\lamb
 
 This tracking engine processes these sub-hertz shifts instantly, transforming passive background noise into a highly sensitive, non-invasive spatial diagnostics array.
 
-​3.4 Phenomenological Integration: Intent-Based Information Manifold
+### ​3.4 Phenomenological Integration: Intent-Based Information Manifold
 
 Classical open-ended machine learning is inadequate for real-time pre-causality adjustments due to exponential computational overhead. The MTPM architecture bypasses this by defining information as the structural bridge between conscious intent and observable reality. By hardcoding the physical boundaries of the chassis as rigid constraints, we create a "Bounded Free Will" environment where stochastic predictability loops are confined to the manifold. In this framework, telemetry is redefined as "Quantized Intent," allowing the system to treat structural phase decay as a deviation in intent-alignment rather than mere data noise. This hyper-compressed state-space eliminates over 90% of open-ended entropy calculations, enabling the system to manifest balancing adjustments up to 30 seconds before physical phase decay occurs.
 
