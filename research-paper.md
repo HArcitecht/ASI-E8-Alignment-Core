@@ -58,7 +58,12 @@ $$f_D(t) = \frac{1}{2\pi} \left[ \frac{d(\angle H)}{dt} \right] = \frac{v}{\lamb
 
 This tracking engine processes these sub-hertz shifts instantly, transforming passive background noise into a highly sensitive, non-invasive spatial diagnostics array.
 
-### 3.4 Bounded Free Will: Constrained Stochastic Predictability Loops
+​3.4 Phenomenological Integration: Intent-Based Information Manifold
+
+Classical open-ended machine learning is inadequate for real-time pre-causality adjustments due to exponential computational overhead. The MTPM architecture bypasses this by defining information as the structural bridge between conscious intent and observable reality. By hardcoding the physical boundaries of the chassis as rigid constraints, we create a "Bounded Free Will" environment where stochastic predictability loops are confined to the manifold. In this framework, telemetry is redefined as "Quantized Intent," allowing the system to treat structural phase decay as a deviation in intent-alignment rather than mere data noise. This hyper-compressed state-space eliminates over 90% of open-ended entropy calculations, enabling the system to manifest balancing adjustments up to 30 seconds before physical phase decay occurs.
+
+Bounded Free Will: Constrained Stochastic Predictability Loops
+
 To achieve a predictive 30-second pre-causality adjustment cycle, classical open-ended machine learning algorithms are entirely inadequate; calculating every possible future state-space trajectory requires impossible computational bandwidth. The MTPM architecture bypasses this bottleneck by hardcoding the physical boundaries of the chassis directly into the prediction engine as rigid constraints.
 
 The state-space transition probabilities ($P_{ij}$) are calculated strictly within these geometric boundaries:
@@ -72,6 +77,7 @@ By bounding the stochastic predictability loop ("Bounded Free Will"), the contro
 ## Section 4: Multi-Modal Quantum Sensing Grid
 
 ### 4.1 Sub-Flux-Quanta Readout via SQUID Array Interferometry
+
 To map ambient electromagnetic variations without introducing invasive measurement back-action into the primary processing channels, the sensing mesh integrates a series of lithographic Superconducting Quantum Interference Devices (SQUIDs). These sensors operate via the principle of flux quantization across dual-Josephson junction loops:
 
 $$\Psi_0 = \frac{h}{2e} \approx 2.0678 \times 10^{-15} \text{ Wb}$$
